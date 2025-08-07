@@ -1,0 +1,6 @@
+loyalty_program_id,name,type,enrollment_fee,tier_structure
+1,Loyalty Plus 1,Tiered,21.9,Basic-Pro-Premium
+2,Loyalty Plus 2,Tiered,49.42,Basic-Pro-Premium
+3,Loyalty Plus 3,Points-Based,15.27,Bronze-Silver-Gold
+4,Loyalty Plus 4,Tiered,11.64,Bronze-Silver-Gold
+5,Loyalty Plus 5,Paid Membership,42.67,Bronze-Silver-Gold

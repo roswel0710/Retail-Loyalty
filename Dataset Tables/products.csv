@@ -1,0 +1,501 @@
+product_id,category,brand,price,product_name
+1,Electronics,Hodges-Pham,44.21,Front
+2,Household,Poole-Davis,270.54,Defense
+3,Electronics,"Bell, Martinez and Miles",125.9,Yes
+4,Clothing,Schneider-Perry,382.23,Executive
+5,Groceries,"Medina, Glass and Flores",180.25,Over
+6,Toys,Brady PLC,106.58,Important
+7,Groceries,"Young, Bright and Williamson",419.98,Off
+8,Household,Jackson-Cannon,319.48,Hospital
+9,Toys,Morrison-Cummings,333.65,Prove
+10,Groceries,"Martin, Mack and Wilson",272.71,To
+11,Clothing,"Roberts, Campbell and Peters",317.0,Window
+12,Toys,Villarreal Inc,284.14,Note
+13,Electronics,Hansen Inc,193.43,Price
+14,Electronics,Thompson-Leonard,311.76,Toward
+15,Electronics,"Knight, Romero and Meyer",407.9,Carry
+16,Electronics,"Cook, Smith and Jenkins",298.8,Find
+17,Household,Russo-Stafford,465.08,Seat
+18,Household,Gray-Lawson,426.5,Popular
+19,Clothing,"Hutchinson, Stevens and Bridges",119.4,Upon
+20,Toys,"Nichols, Snyder and Green",215.46,Show
+21,Groceries,"Rodriguez, Todd and Scott",222.62,Open
+22,Groceries,"Thompson, Robinson and Williams",482.88,Thousand
+23,Electronics,Horne-Kennedy,456.18,Visit
+24,Groceries,Cline Group,237.7,Four
+25,Clothing,"Ho, Ross and Smith",466.95,Its
+26,Clothing,Cook and Sons,126.96,Rate
+27,Electronics,Delacruz PLC,290.75,Really
+28,Toys,Graves-Blake,102.9,A
+29,Household,Anderson Group,4.8,Entire
+30,Groceries,"Chambers, Jones and Thompson",70.67,Or
+31,Electronics,Cox Inc,222.0,Science
+32,Toys,Sanford-Lee,233.61,Maybe
+33,Electronics,Cole LLC,392.12,Customer
+34,Household,"Fisher, Herrera and Jackson",51.03,Cell
+35,Toys,Hansen Inc,425.29,Give
+36,Groceries,Oneal Ltd,344.51,Short
+37,Electronics,Heath LLC,237.06,Religious
+38,Toys,Hughes Ltd,276.33,Yourself
+39,Clothing,Gallegos-Burnett,45.42,Forward
+40,Electronics,"Davis, Graham and Craig",353.8,Interview
+41,Electronics,Lowe-Horn,486.3,Free
+42,Electronics,Adams Ltd,143.03,Girl
+43,Household,"Smith, Smith and Finley",411.26,Threat
+44,Household,Maxwell-Hudson,169.61,Together
+45,Clothing,"Sparks, Moss and Roberts",329.81,Bring
+46,Toys,Thompson-Rios,108.81,Game
+47,Electronics,Mcconnell-Howard,29.13,Glass
+48,Household,Hart Ltd,139.18,Thousand
+49,Electronics,Fox-Parker,251.74,Collection
+50,Miscellaneous,Browning and Sons,476.08,Sea
+51,Groceries,Vega Ltd,300.18,Film
+52,Electronics,Sharp and Sons,241.02,Fear
+53,Groceries,Shaw-Dunn,319.69,Dream
+54,Toys,"Lambert, Jimenez and Shields",267.95,Treat
+55,Toys,Lane-Wood,491.94,Would
+56,Miscellaneous,Romero LLC,315.44,Magazine
+57,Toys,Cardenas-Chaney,107.48,Happy
+58,Clothing,"Hill, Adams and Campbell",136.48,Stuff
+59,Toys,"Villarreal, Stone and Harris",168.18,About
+60,Clothing,Perez-Everett,54.23,Major
+61,Clothing,Peck LLC,169.73,Democrat
+62,Household,Moore-Payne,407.42,Must
+63,Electronics,Shah-Martinez,226.21,Authority
+64,Electronics,Washington Ltd,153.01,Science
+65,Groceries,Willis-Flores,261.47,Structure
+66,Household,Wright LLC,102.84,Capital
+67,Household,"Thompson, Hudson and Flores",498.75,Financial
+68,Toys,Young and Sons,38.27,Quite
+69,Electronics,"Stewart, Smith and Powell",351.49,Let
+70,Clothing,Simon-Dixon,453.92,Remain
+71,Groceries,Golden-Pope,258.41,Four
+72,Household,Manning-Stafford,354.87,Relate
+73,Electronics,Lynn-Price,8.94,Deal
+74,Groceries,Pham and Sons,477.29,Discover
+75,Clothing,Fox-Brown,1.95,Financial
+76,Household,"Benitez, Cruz and Stanton",90.78,Then
+77,Groceries,Clarke-Mcneil,98.04,Pattern
+78,Clothing,"Atkins, Hardy and Guerrero",41.4,Response
+79,Household,Hall-Ray,118.41,Successful
+80,Clothing,Morton PLC,28.73,Federal
+81,Clothing,Huynh-Harris,436.26,Drop
+82,Household,Austin Inc,213.49,Just
+83,Clothing,"Bautista, Norman and Medina",429.54,Floor
+84,Groceries,Salinas and Sons,294.04,Represent
+85,Toys,"Smith, Johnson and Conley",445.74,Owner
+86,Groceries,Gonzales Group,384.39,American
+87,Electronics,"Gomez, Berry and Patel",445.95,Store
+88,Groceries,White LLC,449.96,Industry
+89,Groceries,Hurst LLC,336.59,Leg
+90,Miscellaneous,Peters-Bass,456.64,Father
+91,Groceries,Byrd-Wright,488.1,Federal
+92,Toys,Anderson and Sons,454.4,Still
+93,Electronics,Bryan Inc,188.67,Behavior
+94,Groceries,Robinson and Sons,174.67,Work
+95,Toys,Green-Bush,320.06,Himself
+96,Household,Williams-Gonzalez,94.55,Support
+97,Electronics,"Valencia, Mason and Shepherd",471.02,Hotel
+98,Groceries,"Adams, Elliott and Smith",210.16,Set
+99,Clothing,Vincent Inc,81.96,Hour
+100,Household,"Miles, King and Johnson",486.19,Everyone
+101,Clothing,"Wilson, Sellers and Hudson",410.56,Happen
+102,Groceries,Stevens-Williams,335.56,Hotel
+103,Clothing,Good Ltd,26.89,Hand
+104,Household,"Carney, Gregory and Cummings",289.16,Candidate
+105,Household,"Roberts, Stewart and Taylor",172.58,Look
+106,Household,Sanchez Inc,241.67,Hit
+107,Clothing,Rodriguez-Li,442.7,Thought
+108,Clothing,"Case, Crawford and Jackson",32.06,Firm
+109,Toys,"Watson, King and Thompson",240.98,Wind
+110,Clothing,Chavez LLC,148.98,Network
+111,Toys,"Nguyen, Mitchell and Williams",150.66,Evidence
+112,Electronics,Reyes and Sons,342.03,Sport
+113,Electronics,"Ford, Shelton and Andrews",294.39,Fire
+114,Clothing,White Inc,95.02,Fight
+115,Clothing,"Medina, Osborne and Holland",244.2,Building
+116,Household,Ruiz Inc,72.3,Western
+117,Clothing,Dudley PLC,189.6,She
+118,Toys,"Whitehead, Baker and Riggs",113.46,Beautiful
+119,Electronics,Mitchell-Ferguson,138.26,Include
+120,Groceries,"Dorsey, Thompson and Weaver",428.94,Society
+121,Household,"Campbell, Ryan and Morris",40.76,Theory
+122,Household,Summers-Melton,77.58,Beyond
+123,Groceries,Richards-Salinas,329.14,Ago
+124,Clothing,Wagner-Gonzalez,108.45,Mean
+125,Household,Parsons PLC,86.59,Gas
+126,Electronics,Woods-Campos,182.33,Data
+127,Electronics,"Brewer, Martinez and Maynard",12.97,So
+128,Toys,Short and Sons,270.25,Sound
+129,Electronics,"Dalton, Evans and Meza",381.5,Special
+130,Groceries,Jones-Douglas,281.05,Color
+131,Groceries,"Fields, Evans and Jenkins",269.36,Possible
+132,Clothing,Moore and Sons,52.0,Despite
+133,Clothing,Chavez Inc,144.33,Remember
+134,Toys,Woods-Parker,85.83,He
+135,Clothing,Gentry Ltd,16.64,Ago
+136,Toys,Jones Ltd,396.81,To
+137,Groceries,Middleton-Watson,440.76,Despite
+138,Toys,Hernandez-Lawrence,204.6,Add
+139,Groceries,Patterson-Cortez,135.73,Lay
+140,Clothing,Cruz-Morales,143.26,Bag
+141,Groceries,Mcdaniel and Sons,242.19,Use
+142,Household,"Evans, Johnston and Krueger",6.46,Opportunity
+143,Electronics,"Rodriguez, Blanchard and Craig",234.76,Speech
+144,Groceries,"Pope, Foster and Sutton",44.3,Station
+145,Household,"Ortiz, Rocha and Herrera",386.78,Right
+146,Clothing,Arnold-Mcfarland,23.76,Wrong
+147,Household,"Phillips, Daniel and Atkins",472.79,Mission
+148,Electronics,Young-Brown,174.04,Note
+149,Toys,Martinez and Sons,459.37,Then
+150,Electronics,Martinez-Wilson,94.21,Environmental
+151,Household,"Campbell, Wilkinson and Sanders",216.1,Building
+152,Household,James-West,193.46,Road
+153,Toys,Boyd-Taylor,259.93,Pass
+154,Toys,Garcia-Cline,289.39,Arm
+155,Groceries,"Barber, Walker and Sherman",203.43,Director
+156,Groceries,Hatfield-Garcia,499.16,Take
+157,Electronics,Obrien Inc,69.77,Short
+158,Toys,Kramer-Wilson,62.36,Congress
+159,Toys,Boyd and Sons,427.6,Event
+160,Clothing,"Baker, Shaw and Lee",386.84,Along
+161,Groceries,Rowe-Farmer,369.05,Me
+162,Groceries,"Olson, Porter and Logan",375.71,Way
+163,Toys,Simon Inc,179.9,Develop
+164,Toys,"Cole, Villarreal and Short",156.7,System
+165,Household,Wood Ltd,119.11,Property
+166,Household,Brown-Mitchell,457.54,Positive
+167,Clothing,"Johnson, Harrison and Alvarez",334.73,Production
+168,Toys,Estrada-Ayala,311.67,Decide
+169,Miscellaneous,"Cobb, Long and Smith",108.64,World
+170,Electronics,Crosby PLC,196.47,Stay
+171,Household,Leon-Christensen,311.53,Agency
+172,Household,"Frank, Delacruz and Freeman",74.48,National
+173,Toys,"Hunt, Matthews and Ramirez",202.19,Ask
+174,Groceries,"Lane, Johnson and Gay",146.02,Growth
+175,Groceries,"Smith, Jones and Patrick",385.4,Happen
+176,Clothing,Wise-Norton,416.41,Hair
+177,Clothing,"Cantrell, Montes and Arnold",36.61,Money
+178,Groceries,Phillips LLC,244.67,Country
+179,Household,"Johnson, Smith and Myers",71.4,Pretty
+180,Groceries,"Bryan, Morton and Torres",247.72,Sport
+181,Toys,Vaughn-Cameron,122.09,A
+182,Household,"Butler, Williams and Tucker",372.83,Send
+183,Electronics,"Baker, Byrd and Watkins",36.52,Religious
+184,Electronics,Nash-Martin,369.71,Or
+185,Household,Morris PLC,213.31,Name
+186,Clothing,Tate Inc,95.62,Top
+187,Clothing,Mahoney-Sanchez,63.93,Much
+188,Clothing,"Powell, Caldwell and Black",227.19,Save
+189,Electronics,Lopez and Sons,218.22,Behind
+190,Toys,Morris-Williams,428.46,Mr
+191,Clothing,Salas LLC,286.22,Away
+192,Toys,Mitchell LLC,318.05,Us
+193,Groceries,"Everett, Armstrong and Lopez",408.48,House
+194,Groceries,"Hansen, Johnson and Bartlett",496.24,Pick
+195,Clothing,"Foley, Carter and Nolan",79.71,Effort
+196,Toys,"Hernandez, Gomez and Cuevas",167.45,Before
+197,Household,Harmon-Brown,134.15,Operation
+198,Clothing,Wagner LLC,125.4,Face
+199,Household,"Johnson, Smith and Harmon",36.49,Industry
+200,Toys,Long-Lowe,103.78,Beyond
+201,Groceries,Johns-Oconnell,369.93,Their
+202,Household,"Wells, Harper and Ward",61.97,Chance
+203,Clothing,"Kelley, Vance and Garcia",33.38,Establish
+204,Clothing,Smith Ltd,430.2,School
+205,Electronics,"Williams, Chan and Clark",294.39,Then
+206,Household,"Evans, Villarreal and Clark",485.85,Ask
+207,Electronics,Deleon-Garcia,125.16,Little
+208,Household,Spencer Group,213.48,Bill
+209,Electronics,"Calderon, Alvarez and Jones",56.52,Large
+210,Household,Farrell-Kennedy,461.33,Seat
+211,Groceries,"Aguilar, Anderson and Evans",441.09,Way
+212,Groceries,"Curry, Winters and Wilson",227.05,Senior
+213,Household,Hunter-Anderson,461.02,Sea
+214,Clothing,Wallace Inc,266.13,Despite
+215,Clothing,Nelson Group,178.83,Against
+216,Household,Gibbs-Sherman,191.46,Art
+217,Clothing,Pham Group,189.04,Believe
+218,Toys,Welch-Luna,327.24,Low
+219,Electronics,Rose-Jimenez,286.44,Miss
+220,Groceries,Wyatt LLC,389.31,Half
+221,Toys,"Rodriguez, Powell and Davis",262.45,Then
+222,Electronics,Carroll and Sons,169.86,Dream
+223,Miscellaneous,Bentley LLC,368.0,Avoid
+224,Household,Riddle and Sons,69.35,Firm
+225,Clothing,Luna-Kane,88.72,Power
+226,Electronics,"Jones, Webb and Simmons",44.23,Language
+227,Household,Villegas PLC,76.14,Attention
+228,Electronics,Jordan LLC,366.29,Camera
+229,Household,"Shaffer, Freeman and Warner",414.81,Last
+230,Groceries,Vasquez Ltd,264.82,Prevent
+231,Groceries,"Hughes, Marshall and Peterson",398.34,Course
+232,Groceries,Hernandez-Lee,359.96,Establish
+233,Electronics,Smith-Bailey,57.32,Board
+234,Electronics,Hill-Price,446.33,Catch
+235,Clothing,Knight-Hernandez,287.33,Many
+236,Clothing,"Smith, Cole and Ramirez",265.0,Many
+237,Toys,Davis-Cruz,10.36,Sign
+238,Electronics,Duran Ltd,375.18,Security
+239,Toys,Francis Group,232.23,Consider
+240,Electronics,Jennings-Williams,40.12,Standard
+241,Toys,"Evans, Young and Vaughan",21.17,Old
+242,Household,Fernandez-Jones,210.18,Late
+243,Groceries,"Peters, Moore and Hudson",438.39,Always
+244,Electronics,"Wilson, Bailey and Boyer",217.35,Land
+245,Groceries,Hardin Inc,356.76,Size
+246,Clothing,Nolan-Best,470.28,Who
+247,Toys,"Skinner, Ramirez and Phillips",105.69,Rest
+248,Electronics,"Newton, May and Anderson",364.99,Stand
+249,Toys,Burgess Ltd,98.73,Candidate
+250,Toys,Walker PLC,409.95,Street
+251,Electronics,Knight-Day,242.49,Painting
+252,Household,Cortez-Austin,28.18,Anyone
+253,Toys,Diaz-Santiago,490.66,Though
+254,Groceries,Young Group,432.38,Hit
+255,Electronics,"Graves, Lynch and Jensen",210.07,Morning
+256,Groceries,Bowman LLC,380.12,Some
+257,Toys,"Dorsey, Martinez and Short",434.05,Family
+258,Toys,Jordan LLC,490.66,Speech
+259,Toys,Hale-Yoder,469.26,The
+260,Groceries,Sharp and Sons,350.44,Paper
+261,Groceries,Parks-Diaz,66.44,Land
+262,Toys,"Jones, Knapp and Hicks",17.83,Young
+263,Toys,Huynh PLC,377.77,Coach
+264,Groceries,"Mathis, Clark and Sparks",182.83,Cell
+265,Household,Munoz Group,176.04,Thus
+266,Toys,Blevins-Sharp,354.24,Job
+267,Toys,Ramirez and Sons,5.17,Middle
+268,Household,Ramirez-Graves,127.94,Receive
+269,Electronics,"Reid, Miller and Hernandez",320.0,Answer
+270,Clothing,"Lee, Allen and Gonzalez",337.1,Safe
+271,Household,"Middleton, Johnson and Terrell",158.3,Skill
+272,Toys,Williams-Shelton,83.4,Easy
+273,Clothing,"Burke, Brown and Salazar",451.48,Reason
+274,Household,Garcia PLC,294.29,Truth
+275,Groceries,Garza-Erickson,486.72,During
+276,Electronics,Mccoy LLC,254.29,Serve
+277,Household,Long-Davis,482.6,Wear
+278,Electronics,Adams-Wang,415.25,Picture
+279,Clothing,Hall and Sons,452.86,From
+280,Electronics,"Williams, Taylor and Rubio",362.76,Lawyer
+281,Groceries,Ramsey LLC,126.82,Do
+282,Household,Manning-Fowler,326.54,Include
+283,Electronics,"English, Long and Chang",342.83,Simply
+284,Household,Ferguson and Sons,466.37,Worry
+285,Electronics,Zavala-Peterson,36.34,Notice
+286,Electronics,"Harrington, Parsons and Patel",83.62,Explain
+287,Toys,"Peters, Ferrell and Warren",260.37,Thought
+288,Clothing,"Carroll, Johnson and Jennings",102.59,Community
+289,Household,Young-Brown,181.1,Court
+290,Groceries,"Palmer, Smith and Davis",371.31,Another
+291,Clothing,Jones PLC,88.39,Yard
+292,Clothing,"Freeman, Rios and Cooper",226.17,Statement
+293,Electronics,"Gill, Day and Novak",204.31,Campaign
+294,Toys,Meyer-Martin,82.0,Prove
+295,Clothing,Park-Bryan,125.53,Establish
+296,Clothing,Peterson and Sons,247.76,Create
+297,Electronics,Davis-Hardin,397.6,Perform
+298,Toys,Jones-Woods,396.98,Already
+299,Clothing,Duran-Miles,253.84,Opportunity
+300,Groceries,Phillips LLC,290.7,Glass
+301,Household,Zavala-Peterson,263.1,Once
+302,Clothing,Thompson and Sons,395.86,Bit
+303,Electronics,Espinoza and Sons,361.54,International
+304,Groceries,"Cooper, Powell and Lee",376.31,Seek
+305,Household,Smith-Perez,395.99,Rock
+306,Groceries,Mclean-Evans,403.76,Politics
+307,Household,Barrera-Thomas,297.44,Arrive
+308,Clothing,Oconnell-Owens,138.73,Just
+309,Toys,Zavala-Bowman,189.42,Center
+310,Groceries,Perez-Moreno,370.78,According
+311,Household,"Gonzales, Herrera and Lane",252.21,Call
+312,Clothing,Clark PLC,139.11,Public
+313,Toys,"Figueroa, Sanchez and Kim",487.1,Way
+314,Groceries,"Miller, Smith and Luna",273.42,Technology
+315,Toys,"Scott, Esparza and Parker",234.75,Recognize
+316,Toys,"Walters, Proctor and Montgomery",30.33,Tree
+317,Clothing,"Cox, Murphy and Garcia",479.83,Character
+318,Clothing,Lewis Inc,13.65,And
+319,Clothing,"Koch, Johnson and Ellis",439.26,Institution
+320,Clothing,"Clark, Richardson and Nunez",64.7,Foot
+321,Groceries,Morris Group,389.89,Campaign
+322,Electronics,Smith and Sons,399.42,Trouble
+323,Clothing,Castillo-Reed,182.56,Music
+324,Groceries,Tucker Ltd,314.5,House
+325,Toys,Palmer Inc,376.48,Face
+326,Miscellaneous,Rogers-Thompson,442.05,Better
+327,Household,Mitchell and Sons,119.77,Notice
+328,Household,Finley LLC,398.83,On
+329,Toys,"Smith, Stephenson and Goodwin",22.21,Factor
+330,Electronics,Smith-Jackson,280.79,Cold
+331,Groceries,Dunn Inc,289.95,Woman
+332,Electronics,Cortez Group,178.76,Safe
+333,Electronics,"Williams, Saunders and Williams",245.89,Film
+334,Household,Cole-Obrien,169.4,Entire
+335,Toys,Brown-Johnston,379.46,Left
+336,Clothing,"Rosario, Peterson and Hubbard",138.02,Official
+337,Household,Garcia-Dennis,7.15,Change
+338,Groceries,Burgess-Green,41.91,Tell
+339,Clothing,Jimenez-Downs,183.45,Serious
+340,Groceries,Mills and Sons,193.11,Mouth
+341,Toys,Gallegos PLC,413.98,Interesting
+342,Clothing,"Gibson, Valdez and Duffy",69.06,Nice
+343,Groceries,"Osborne, Cruz and Young",108.56,During
+344,Clothing,"Mccarthy, Weber and Jones",395.71,Beat
+345,Household,Morris Inc,364.85,Somebody
+346,Groceries,Phillips-Munoz,444.75,Morning
+347,Groceries,Taylor-Morgan,324.58,Coach
+348,Clothing,"Rogers, Snyder and Martin",207.09,Live
+349,Groceries,Conner Ltd,265.65,Raise
+350,Toys,"Leon, Castro and Davis",413.9,Network
+351,Toys,Stone LLC,118.5,Two
+352,Toys,Thomas Group,82.37,Early
+353,Household,"Jones, Hernandez and Ford",420.91,Game
+354,Household,"Riley, Cummings and Spears",108.74,Else
+355,Clothing,Bradley-Morgan,89.09,Answer
+356,Household,"Valentine, White and Brown",451.75,Her
+357,Household,Johnson PLC,326.71,Nice
+358,Household,Martinez Ltd,288.94,Center
+359,Household,"Chapman, Ruiz and Anderson",184.43,Provide
+360,Household,"Snow, Thomas and Moore",143.97,Mind
+361,Groceries,Porter-Holt,59.86,Economic
+362,Clothing,"Johnson, Carroll and Dunlap",339.82,Develop
+363,Groceries,Thomas LLC,263.22,Either
+364,Toys,Lewis PLC,321.0,Other
+365,Electronics,Hudson-Anderson,406.19,Out
+366,Groceries,Aguilar-Holden,399.09,Big
+367,Miscellaneous,"Gilbert, Guerrero and Dodson",379.87,About
+368,Toys,Hodge-Middleton,410.73,By
+369,Household,Harris-Fox,495.58,Begin
+370,Household,"Novak, Rivas and Wright",238.86,Contain
+371,Toys,Cook Group,205.32,Moment
+372,Toys,Williams-Tran,437.33,Just
+373,Miscellaneous,Goodman-Hicks,230.37,Guess
+374,Toys,Lee-Allen,209.69,Turn
+375,Groceries,Lucas-Butler,94.25,Throughout
+376,Groceries,Cunningham and Sons,124.58,Since
+377,Household,Smith-Stevens,192.0,Site
+378,Toys,"Hernandez, Mcdaniel and Knox",156.2,Seven
+379,Groceries,Swanson-Eaton,98.15,Leave
+380,Groceries,"Good, Watson and Mckee",494.19,Join
+381,Household,Lee Group,177.37,Series
+382,Household,Oconnor-Ferguson,210.6,Four
+383,Toys,"Howard, Day and Young",40.6,Color
+384,Groceries,Smith-Jackson,362.36,Probably
+385,Household,Lambert-Walker,315.12,Early
+386,Clothing,"Elliott, Franco and Gallegos",429.88,Cultural
+387,Clothing,Chen Ltd,202.7,Respond
+388,Household,"Alvarado, King and Fritz",387.38,Experience
+389,Toys,Miller-Booker,409.71,Recent
+390,Electronics,Martinez-Hogan,431.1,Conference
+391,Clothing,"Abbott, Hernandez and Hill",243.48,Establish
+392,Toys,"Hernandez, Williams and Peters",138.04,Season
+393,Household,Frazier PLC,168.16,War
+394,Groceries,Henderson-Butler,348.25,Religious
+395,Groceries,Brown-Miller,41.88,Later
+396,Clothing,Moore Group,361.37,Likely
+397,Groceries,"Flores, Landry and Davis",56.52,Discuss
+398,Toys,Jones-Cummings,381.5,Answer
+399,Household,Joseph and Sons,98.74,Discussion
+400,Toys,Evans Group,180.0,Under
+401,Electronics,Butler Inc,349.13,Thus
+402,Toys,Shaw-Holmes,195.17,Success
+403,Toys,Christensen and Sons,185.69,Certain
+404,Toys,Goodwin-Patterson,494.82,Kind
+405,Toys,"Conner, Ochoa and Johnston",260.31,Because
+406,Electronics,Krueger Inc,204.97,Everyone
+407,Clothing,Patterson PLC,486.36,Interview
+408,Clothing,"Adams, Gaines and Russo",466.27,Arrive
+409,Electronics,"Martin, Martin and Hobbs",246.41,Together
+410,Household,Holden-Carter,419.6,Plan
+411,Groceries,Ross-Chapman,334.61,Surface
+412,Toys,Garcia-Sanford,189.03,Career
+413,Toys,James-Walker,425.55,Way
+414,Toys,Warren-Crosby,358.01,Involve
+415,Groceries,Brown Group,125.54,Usually
+416,Household,"Davenport, Jenkins and Jacobs",51.08,Official
+417,Groceries,"Gould, Sims and Dunlap",253.89,Task
+418,Groceries,Matthews-Morse,404.49,Most
+419,Toys,Dean Group,389.41,Oil
+420,Household,Pennington-Villa,367.16,Establish
+421,Electronics,"Wilson, Watson and Moreno",402.75,Always
+422,Groceries,Swanson-Estrada,438.04,Total
+423,Toys,"Johnson, Hart and Grant",463.45,Thousand
+424,Electronics,"Bates, Miller and Cox",102.2,Likely
+425,Groceries,Scott-Riley,169.86,Music
+426,Groceries,Evans LLC,391.67,May
+427,Clothing,Allen and Sons,40.67,Particular
+428,Groceries,"Anderson, Sullivan and Vaughn",246.01,Cup
+429,Household,Marshall and Sons,250.29,Experience
+430,Clothing,Duran and Sons,264.0,Structure
+431,Clothing,Garrett PLC,306.29,Stop
+432,Groceries,Thompson-Knapp,294.6,Time
+433,Electronics,Williams-Blackwell,222.54,Single
+434,Clothing,Walton-Martinez,187.59,Cause
+435,Electronics,Hull PLC,294.63,Agree
+436,Clothing,Fields-Richardson,41.99,Us
+437,Miscellaneous,Ashley LLC,304.75,Final
+438,Household,"Cross, Brown and Chapman",11.18,Tend
+439,Toys,Roberts-Curtis,463.2,Either
+440,Toys,"Flowers, Gonzalez and Lyons",35.43,Want
+441,Clothing,Thomas-Martin,104.15,Might
+442,Clothing,Lin-Moss,467.6,Development
+443,Electronics,Sanchez LLC,31.2,Sound
+444,Electronics,Sullivan-Nelson,11.17,Fine
+445,Clothing,Bennett-Aguilar,331.56,Election
+446,Clothing,Hart-Hanson,461.61,Close
+447,Toys,Montgomery-Rodriguez,411.28,Laugh
+448,Household,Parks LLC,274.7,Oil
+449,Clothing,"Martinez, Wilson and Harris",179.91,Deal
+450,Clothing,Ayala Group,483.37,Blood
+451,Clothing,Smith Ltd,399.9,Meeting
+452,Electronics,Cole-Wallace,113.01,Home
+453,Electronics,"Jenkins, Johnson and Adams",412.55,Try
+454,Household,Wood PLC,358.1,No
+455,Groceries,Downs Group,330.33,Candidate
+456,Electronics,Baldwin-Roberts,119.69,Join
+457,Household,Moore-Holland,168.32,Important
+458,Groceries,Powell LLC,371.76,Event
+459,Miscellaneous,Evans-Yang,198.42,Behavior
+460,Groceries,Hill PLC,269.14,Office
+461,Electronics,Hernandez LLC,429.16,Tend
+462,Groceries,Elliott LLC,278.95,Institution
+463,Household,"Gonzalez, Becker and Hayden",133.61,Southern
+464,Toys,"Miller, Moore and Harris",181.29,The
+465,Household,Cain Ltd,383.23,Center
+466,Toys,"Hammond, Thompson and Morrow",478.08,Around
+467,Groceries,"Castillo, Nguyen and Moore",14.11,Sound
+468,Toys,"Stewart, Jordan and Sawyer",483.5,Worker
+469,Household,"Lloyd, Woodward and Schwartz",111.16,Take
+470,Electronics,Olson Group,248.62,Usually
+471,Clothing,"Foster, West and Mills",53.07,Drop
+472,Clothing,Winters Ltd,240.12,Church
+473,Toys,Castro-Ingram,31.15,Stuff
+474,Electronics,Johnson PLC,207.61,Ago
+475,Toys,"Kelly, Wong and Beard",261.33,Audience
+476,Electronics,"Hoover, Gonzalez and Johnson",225.66,Want
+477,Groceries,"Hines, Sullivan and Williams",105.69,When
+478,Toys,"Castro, Russell and White",258.47,Bed
+479,Household,Fischer PLC,330.89,Onto
+480,Household,"Mata, Young and Hickman",439.07,Either
+481,Electronics,"Perez, Ward and Jones",306.08,Exist
+482,Clothing,Morton Inc,423.93,Than
+483,Groceries,Houston-Anderson,17.83,Show
+484,Electronics,Duran PLC,146.99,Environmental
+485,Toys,"Simmons, Miller and Hernandez",392.07,Story
+486,Household,"Powell, Burke and Trujillo",93.8,Piece
+487,Groceries,Jenkins-Shah,120.65,Response
+488,Household,"Tanner, King and Patterson",311.95,Story
+489,Toys,Leonard Ltd,79.9,Turn
+490,Electronics,"Yates, Tran and Moore",136.8,Raise
+491,Clothing,Roth and Sons,385.66,Memory
+492,Household,Aguilar-Leonard,31.12,Agent
+493,Clothing,Spencer Ltd,120.36,Since
+494,Toys,Sanchez LLC,244.16,Explain
+495,Household,Middleton-Williams,333.48,Local
+496,Groceries,Jones-Munoz,335.53,Of
+497,Clothing,"Schaefer, Thomas and Moore",170.69,Whatever
+498,Groceries,Bailey Group,252.22,Home
+499,Electronics,Keller-Carrillo,137.39,Alone
+500,Groceries,"Briggs, Martin and Butler",230.59,Hard
